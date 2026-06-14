@@ -1,0 +1,6 @@
+{
+  "name": "Text to Speech Converter",
+  "description": "A refined platform to transform written text, articles, or uploaded files into expressive, natural-sounding audio files with diverse voice options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
